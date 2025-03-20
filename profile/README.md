@@ -2,8 +2,9 @@
 
 一個講開源科嘅，做技術分享嘅 Channel。
 
-YouTube: https://www.youtube.com/@hkfosschat
-
+- YouTube: [@hkfosschat](https://www.youtube.com/@hkfosschat)
+- Threads: [@hkfosschat](https://www.threads.net/@hkfosschat)
+- GitHub: [hkfosschat](https://github.com/hkfosschat)
 
 ## 節目
 

@@ -1,10 +1,11 @@
 # 我哋講開
 
-一個講開源科嘅，做技術分享嘅 Channel。
+（大約）每星期一次，兩個主持坐埋一齊講開源新聞，或者科技新知，或者做技術分享嘅 Channel。
 
 - YouTube: [@hkfosschat](https://www.youtube.com/@hkfosschat)
 - Threads: [@hkfosschat](https://www.threads.net/@hkfosschat)
 - GitHub: [hkfosschat](https://github.com/hkfosschat)
+- Mastodon: [fosstodon.org/@hkfosschat](https://fosstodon.org/@hkfosschat)
 
 ## 節目
 

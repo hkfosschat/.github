@@ -4,7 +4,7 @@
 
 - YouTube: [@hkfosschat](https://www.youtube.com/@hkfosschat)
 - Threads: [@hkfosschat](https://www.threads.net/@hkfosschat)
-- GitHub: [hkfosschat](https://github.com/hkfosschat)
+- GitHub Pages: [hkfosschat](https://hkfosschat.github.io/)
 - Mastodon: [@hkfosschat@fosstodon.org](https://fosstodon.org/@hkfosschat)
 
 ## 節目
